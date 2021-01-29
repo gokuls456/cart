@@ -1,0 +1,179 @@
+.box {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 70%;
+}
+.muted-text {
+  color: gray;
+}
+.nav-wrapper {
+  background: rgb(1, 1, 39) !important;
+  height: auto !important;
+  line-height: 45px !important;
+}
+.brand-logo:hover {
+  color: white;
+}
+nav .brand-logo {
+  position: relative !important;
+  display: flex !important;
+}
+
+.ui.input > input {
+  height: 10px;
+}
+.navbar-restaurant-details-info {
+  display: flex;
+
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.navbar-restaurant-details {
+  display: flex;
+}
+.search-dishes-checkbox {
+  background: white !important;
+  padding: 10px;
+  height: 33px !important;
+  border-radius: 3px;
+  margin-left: 40px;
+}
+.search-dishes-checkbox label {
+  font-weight: bold;
+}
+.search-dishes-button {
+  background-color: white !important ;
+  height: 33px !important;
+  border-radius: 3px;
+  margin-left: 20px !important;
+  color: black !important;
+}
+.search-dishes-button i {
+  background-color: white !important ;
+}
+.material-icons {
+  font-size: 2.4em;
+  cursor: pointer;
+}
+.card {
+  display: flex;
+  width: 100%;
+}
+.card .card-image .card-title {
+  color: black;
+  font-weight: 400;
+}
+.cart {
+  margin: 40px 10px 0px 0px;
+  width: 100%;
+}
+.cart-container {
+  display: flex;
+}
+.collection-info-bg {
+  background: whitesmoke !important;
+}
+.collection .collection-item {
+  display: flex;
+}
+.collection-item.avatar .title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #ee6e73;
+  display: block;
+  margin-bottom: 20px;
+}
+.collection .collection-item img {
+  width: 150px;
+  margin-right: 25px;
+}
+.item-desc {
+  align-self: center;
+}
+
+.item-image {
+  width: 20% !important;
+  margin-left: auto;
+  padding: 10px;
+}
+
+.remove-icon {
+  right: 88px !important;
+}
+
+.box-with-cart-details {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cart-details-home {
+  width: 30%;
+  padding: 20px;
+}
+.cart-detail-right {
+  width: 60%;
+}
+.cart-detail-info-home-page {
+  display: flex;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+.cart-detail-left {
+  margin: auto;
+}
+.cart-detail-left-border {
+  border: 1px solid rgb(211, 211, 211);
+  padding: 5px;
+}
+.cart-icon-quantity {
+  font-size: 12px;
+  color: green;
+  margin: 3px;
+}
+
+.food-icons {
+  font-size: 16px;
+  color: green;
+  margin-right: 10px;
+}
+
+.checkout-button-home-cart {
+  background: green;
+  width: 100%;
+}
+.checkout-button-home-cart:hover {
+  background: rgb(29, 80, 29);
+}
+
+.btn-floating.halfway-fab {
+  right: 40px !important;
+}
+
+.summary-detail-box {
+  margin: 35px;
+}
+
+.summary-lable {
+  font-size: 15px;
+}
+.collection .collection-item.avatar {
+  padding-left: 35px !important ;
+}
+
+.cart-page-details {
+  width: 60px;
+}
+.clear-cart-button-span {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.clear-cart-button {
+  width: 20%;
+  font-size: 15px;
+}
+
+.home-food-list-loading {
+  margin: auto;
+}
