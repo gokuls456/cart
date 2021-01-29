@@ -21,7 +21,7 @@ export const foodImages = [
   "https://img.favpng.com/5/14/21/chinese-cuisine-indian-cuisine-cambodian-cuisine-restaurant-food-png-favpng-1E6uipXQKX8J47u7EeUt9YzP1.jpg",
   "https://mantrapines.com/wp-content/uploads/2020/10/Website-Image-min-1.png",
   "https://www.freeiconspng.com/uploads/giftcards-food-png-27.png",
-  "https://i.dlpng.com/static/png/6957235_preview.png",
+  "https://lh3.googleusercontent.com/proxy/mpf4m2mkNVTCVWMNCA2zVc-2BXvAJlVWJARgRoStgujc_-O0rTHN5r9rNWNfLbEPsOk5Yy-6VDiEupdCslJELxHONfWpD2DnanYraVsraN-QLoZvf_TNWg",
   "https://pngimg.com/uploads/burger_sandwich/burger_sandwich_PNG4135.png"
 ];
 const initState = {
